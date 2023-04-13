@@ -1,6 +1,6 @@
 
 # [UGC Sniper]((https://discord.gg/3Uvcf8d9aY))
-A free UGC sniper bot for roblox that sniper free limiteds.
+A free UGC sniper bot for roblox that snipes free limiteds.
 
 **[Unofficial installation guide](https://docs.google.com/document/d/1VAqSW067-8OlexScBwje-HJcMn7vXJJM3WuRHE97-QU/edit)**
 
@@ -11,7 +11,7 @@ A free UGC sniper bot for roblox that sniper free limiteds.
 
 ## Features
 * Buying the free limited
-* Searching 24/7 to see if its on sale
+* Searching 24/7 to see if its on sale (Must leave pc open so it works)
 * Easy to use
 * Lightweight
 * Rebuys when failed buying
