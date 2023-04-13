@@ -6,15 +6,8 @@ A free UGC sniper bot for roblox that sniper free limiteds.
 
 ## Table of contents
 1. [Table of contents](https://github.com/J3ldo/UGC-Sniper#Table-of-contents)
-2. [Premium](https://github.com/J3ldo/UGC-Sniper#Premium)
 3. [Features](https://github.com/J3ldo/UGC-Sniper#features)
 4. [How to use](https://github.com/J3ldo/UGC-Sniper#how-to-use)
-
-## [Premium](https://discord.gg/3Uvcf8d9aY)
-If you aren't happy with the preformance of this UGC Sniper or want a limited sniper. You can buy the premium limited sniper. This sniper has way more functionality because for just €10,- you can get the following features.
-  
-Check prices way faster, and faster proxies.
-Search items based on RAP, Projection detection, alt account support, buying every limited with a price under 50 robux, blacklisted keywords, checking 119 limiteds in 0,75 seconds (no proxies), dynamic pricing of limited, and way more. 
 
 ## Features
 * Buying the free limited
