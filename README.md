@@ -11,7 +11,7 @@ A free UGC sniper bot for roblox that snipes free limiteds.
 
 ## Features
 * Buying the free limited
-* Searching 24/7 to see if its on sale (Must leave pc open so it works)
+* Searching 24/7 to see if its on sale
 * Easy to use
 * Lightweight
 * Rebuys when failed buying
