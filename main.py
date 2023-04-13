@@ -83,6 +83,7 @@ def buy(json, itemid, productid):
 Thread(target=get_x_token).start()
 
 print("UGC Sniper made by Jeldo#9587\nDiscord server: https://discord.com/invite/3Uvcf8d9aY")
+print("Some code modified by xxz15#1088")
 while x_token == "":
     time.sleep(0.01)
 
@@ -99,8 +100,6 @@ while 1:
                            json={"items": [{"itemType": "Asset", "id": int(limited)}]},
                            headers={"x-csrf-token": x_token}, cookies={".ROBLOSECURITY": cookie}).json()["data"][0]
         except KeyError:
-            print("Ratelimit! Waiting for next minute to start")
-            time.sleep(60-int(datetime.datetime.now().second))
             continue
 
         if info.get("priceStatus", "") != "Off Sale" and info.get("collectibleItemId") is not None:
